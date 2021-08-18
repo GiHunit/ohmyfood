@@ -4,14 +4,23 @@
     box-sizing: border-box;
 }
 
-.logo {
-    background-color: cadetblue;
-    width: 100%;
+.text-align img {
+    width: 50%;
 }
 
-.logo img {
-    max-width: 100%;
-    height: auto;
+.text-align {
     text-align: center;
-    margin: auto;
+}
+
+.border {
+    background-color: aquamarine;
+}
+
+.place {
+    background-color: rgb(107, 170, 170);
+    padding: 10px;
+}
+
+.logo {
+    border: black solid 2px;
 }
